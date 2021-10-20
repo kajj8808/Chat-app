@@ -1,3 +1,5 @@
-# Noom
+# Chat App
 
-Zoom Clone using NodeJS, WebRTC and Websockets.
+Socket io , js , pug 
+
+
